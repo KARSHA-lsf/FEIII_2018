@@ -169,6 +169,16 @@
 						<li><a href="http://opensource.lk/"> <i
 								class="fa fa-users" aria-hidden="true"></i> People
 						</a></li>
+						<li><a><i class="fa fa-sitemap"></i>Topic model <span class="fa fa-chevron-down"></span></a>
+								<ul class="nav child_menu">
+									<li><a href="topic_mdl.jsp" id="sid_14">Topics</a></li>
+									
+									<li><a href="issuers.jsp" id="sid_14">Issuers</a></li>
+									<li><a href="prospectus_mdl.jsp" id="sid_14">Prospectus</a></li>
+								</ul>
+							</li>
+
+						
 					</ul>
 				</div>
 			</div>
