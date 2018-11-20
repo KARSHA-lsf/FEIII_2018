@@ -12,7 +12,7 @@
 		<div class="left_col scroll-view">
 			<div class="navbar nav_title" style="border: 0;">
 				<a href="index.jsp" class="site_title">
-					<!-- <i class="fa fa-paw"></i> --> <span>Fin Network</span>
+					<!-- <i class="fa fa-paw"></i> --> <span>FEIII 2018</span>
 				</a>
 			</div>
 
@@ -169,7 +169,7 @@
 						<li><a href="http://opensource.lk/"> <i
 								class="fa fa-users" aria-hidden="true"></i> People
 						</a></li>
-						<li><a><i class="fa fa-sitemap"></i>Topic model <span class="fa fa-chevron-down"></span></a>
+						<!-- <li><a><i class="fa fa-sitemap"></i>Topic model <span class="fa fa-chevron-down"></span></a>
 								<ul class="nav child_menu">
 									<li><a href="topic_mdl.jsp" id="sid_14">Topics</a></li>
 									
@@ -177,7 +177,7 @@
 									<li><a href="prospectus_mdl.jsp" id="sid_14">Prospectus</a></li>
 								</ul>
 							</li>
-
+ -->
 						
 					</ul>
 				</div>
